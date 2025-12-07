@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-project-name.github.io',
+  url: 'https://codewithzubi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Physical-AI-Humanoid-Robotic-Book/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-github-org', // Usually your GitHub org/user name.
-  projectName: 'your-repo-name', // Usually your repo name.
+  organizationName: 'https://github.com/codewithzubi', // Usually your GitHub org/user name.
+  projectName: 'Physical-AI-Humanoid-Robotic-Book', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -81,7 +81,7 @@ const config = {
             label: 'Book',
           },
           {
-            href: 'https://github.com/your-github-org/your-repo-name',
+            href: 'https://github.com/codewithzubi/Physical-AI-Humanoid-Robotic-Book',
             label: 'GitHub',
             position: 'right',
           },
@@ -119,10 +119,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
